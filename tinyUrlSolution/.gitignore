@@ -1,0 +1,15 @@
+# Visual Studio files
+.vs/
+[Dd]ebug/
+[Rr]elease/
+obj/
+bin/
+
+# SQL/Databases
+*.sqlite
+*.db
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docuser 
