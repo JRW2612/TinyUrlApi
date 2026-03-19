@@ -1,4 +1,4 @@
-﻿using tinyUrl.Domain.DTOs;
+﻿using tinyUrl.Application.DTOs;
 
 namespace tinyUrl.Application.Contracts
 {

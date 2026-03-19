@@ -1,7 +1,9 @@
-﻿namespace tinyUrl.Application.Contracts
+﻿using tinyUrl.Application.DTOs;
+
+namespace tinyUrl.Application.Contracts
 {
     public interface IUserLogin
     {
-        Task<string> Login(string username, string password);
+        Task<string> Login(LoginModel loginModel);
     }
 }

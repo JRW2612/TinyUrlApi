@@ -1,6 +1,8 @@
-﻿using tinyUrl.Application.Contracts;
+﻿
 
-namespace tinyUrl.Application.Services
+using tinyUrl.Application.Contracts;
+
+namespace tinyUrl.Infrastructure.Services
 {
     public class Base62ShortCodeGenerator : IShortCodeGenerator
     {

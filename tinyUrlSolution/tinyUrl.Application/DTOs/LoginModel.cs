@@ -1,4 +1,4 @@
-﻿namespace tinyUrl.Domain.DTOs
+﻿namespace tinyUrl.Application.DTOs
 {
     public class LoginModel
     {

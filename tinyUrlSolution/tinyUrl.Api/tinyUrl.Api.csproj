@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\tinyUrl.Application\tinyUrl.Application.csproj" />
+    <ProjectReference Include="..\tinyUrl.Infrastructure\tinyUrl.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
